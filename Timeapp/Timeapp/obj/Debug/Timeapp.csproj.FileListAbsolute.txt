@@ -1,0 +1,7 @@
+C:\Users\blake\source\repos\Timeapp\Timeapp\bin\Debug\Timeapp.exe.config
+C:\Users\blake\source\repos\Timeapp\Timeapp\bin\Debug\Timeapp.exe
+C:\Users\blake\source\repos\Timeapp\Timeapp\bin\Debug\Timeapp.pdb
+C:\Users\blake\source\repos\Timeapp\Timeapp\obj\Debug\Timeapp.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\Timeapp\Timeapp\obj\Debug\Timeapp.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\Timeapp\Timeapp\obj\Debug\Timeapp.exe
+C:\Users\blake\source\repos\Timeapp\Timeapp\obj\Debug\Timeapp.pdb
